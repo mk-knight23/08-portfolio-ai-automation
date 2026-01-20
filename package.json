@@ -1,22 +1,31 @@
 {
   "name": "07-demo-site",
-  "private": true,
-  "version": "1.0.0",
+  "version": "2.0.0",
+  "description": "Corporate demo website template with modern design and animations.",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
+  "keywords": [
+    "demo",
+    "corporate",
+    "website",
+    "template"
+  ],
+  "author": "Kazi Musharraf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-knight23/07-demo-site.git"
+  },
+  "homepage": "https://07-demo-site.vercel.app",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.26.2",
     "framer-motion": "^11.5.4",
-    "lucide-react": "^0.441.0",
-    "clsx": "^2.1.1",
-    "tailwind-merge": "^2.5.2",
-    "axios": "^1.7.7"
+    "lucide-react": "^0.441.0"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",

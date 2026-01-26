@@ -1,43 +1,61 @@
-# 07-demo-site
+# portfolio-personal-demo
 
-✨ A high-performance demonstration platform showcasing modern web interactions, sophisticated UI components, and seamless React architecture.
+Personal demo portfolio with project demonstrations and work samples.
 
-## Features
-- 🚀 Interactive Feature Demonstrations
-- 🎨 Sophisticated Component Library
-- 📱 Responsive Multi-Resolution Support
-- ⚛️ Powered by React 18
-- ⚡ Lightning-Fast Build Pipeline with Vite 6
-
-## Tech Stack
-- **Frontend**: React 18, Tailwind CSS v4
-- **Build Tool**: Vite 6
-- **Icons**: Lucide React
-- **Animations**: Framer Motion
-
-## Quick Start
-```bash
-npm install
-npm run dev
-```
-
-## Documentation
-- [Architecture Overview](docs/ARCHITECTURE.md)
-- [Design System](docs/DESIGN.md)
-- [Deployment Guide](docs/DEPLOY.md)
-
-## Live Deployment
-- **GitHub Pages**: [https://mk-knight23.github.io/07-demo-site/](https://mk-knight23.github.io/07-demo-site/)
-- **Status**: 🟢 Live
-- **Modernized**: 2026-01-23
+Part of the MUSHARRAF KAZI portfolio ecosystem — AI Engineer & Indie Builder
+specializing in Agentic AI, Developer Tools, Multi-LLM Routing, and SaaS Automation.
 
 ---
-*Maintained by [Kazi Musharraf](https://github.com/mk-knight23)*
 
-## 🌐 Live Deployments
+## About
 
-- Vercel: https://07-demo-site.vercel.app
-- GitHub Pages: https://mk-knight23.github.io/07-demo-site/
+A personal demo portfolio featuring interactive demonstrations, code samples,
+and project walkthroughs showcasing technical capabilities.
 
-Status: 🟢 Deployments Live  
-Last Updated: 2026-01-23
+---
+
+## VIBE Ecosystem
+
+**Founder & AI Engineer**
+
+Building a multi-product AI developer platform:
+
+| Product | Description |
+|---------|-------------|
+| VIBE CLI | Multi-agent coding tool with TUI and LLM routing |
+| VIBE VS Code | AI IDE assistant with streaming chat |
+| VIBE Web | Documentation hub for the ecosystem |
+| VIBE Chat | AI website builder with generative agents |
+
+---
+
+## Demo Categories
+
+### AI/ML Demos
+- Agentic systems, RAG pipelines, LLM routing demonstrations
+
+### Web Application Walkthroughs
+- React, Next.js, Vue, TypeScript projects
+
+### Developer Tool Demonstrations
+- CLI applications, VS Code extensions
+
+### Code Sample Repositories
+- Clean, documented implementations
+
+---
+
+## Focus Areas
+
+- Agentic AI Systems
+- Developer Tools & Automation
+- Full-Stack Web Development
+- Product Strategy & Architecture
+
+---
+
+## Connect
+
+- **Email:** mk.knight970@gmail.com
+- **GitHub:** [@mk-knight23](https://github.com/mk-knight23)
+- **LinkedIn:** [kazi-musharraf](https://www.linkedin.com/in/kazi-musharraf-0674871a4)

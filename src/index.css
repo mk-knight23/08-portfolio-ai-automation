@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+    --color-primary-glow: rgba(99, 102, 241, 0.1);
+    --color-secondary-glow: rgba(59, 130, 246, 0.1);
+}
+
+@layer base {
+    body {
+        @apply bg-slate-50 text-slate-900 antialiased selection:bg-indigo-100;
+    }
+}

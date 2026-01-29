@@ -1,8 +1,8 @@
 {
-  "name": "07-demo-site",
+  "name": "08-portfolio-ai-automation",
   "private": false,
   "version": "2.1.0",
-  "description": "Premium corporate portfolio template with React 19, TypeScript, Tailwind CSS v4, and Framer Motion 12.",
+  "description": "Kazi Musharraf — AI Automation Engineer Portfolio. High-performance automation showcases, agentic workflows, and system architecture.",
   "type": "module",
   "scripts": {
     "lint": "eslint .",
@@ -22,9 +22,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mk-knight23/07-demo-site.git"
+    "url": "git+https://github.com/mk-knight23/08-portfolio-ai-automation.git"
   },
-  "homepage": "https://mk-knight23.github.io/07-demo-site/",
+  "homepage": "https://mk-knight23.github.io/08-portfolio-ai-automation/",
   "dependencies": {
     "clsx": "^2.1.1",
     "framer-motion": "^12.29.2",
@@ -36,6 +36,7 @@
   "devDependencies": {
     "@eslint/js": "^9.39.2",
     "@tailwindcss/vite": "^4.1.18",
+    "@types/node": "^25.1.0",
     "@types/react": "^19.2.9",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^4.7.0",
